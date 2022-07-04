@@ -1,0 +1,11 @@
+Menggunakan Selection Sort
+
+Input :
+id, nama, jabatan, no_telp
+
+proses:
+id diurutkan secara Ascending (kecil ke besar) dan Decending (besar ke kecil)
+search menggunakan id
+
+output:
+id, nama, jabatan, no_telp
